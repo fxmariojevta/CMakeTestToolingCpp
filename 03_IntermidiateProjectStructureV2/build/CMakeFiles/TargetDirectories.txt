@@ -1,0 +1,4 @@
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructureV2/build/CMakeFiles/Library.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructureV2/build/CMakeFiles/Executable.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructureV2/build/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructureV2/build/CMakeFiles/rebuild_cache.dir
