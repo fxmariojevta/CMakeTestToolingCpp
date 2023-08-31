@@ -1,0 +1,4 @@
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/02_BasicProject/build/CMakeFiles/Library.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/02_BasicProject/build/CMakeFiles/Executable.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/02_BasicProject/build/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/02_BasicProject/build/CMakeFiles/rebuild_cache.dir
