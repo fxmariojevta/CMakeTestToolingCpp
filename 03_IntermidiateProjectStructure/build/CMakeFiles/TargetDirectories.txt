@@ -1,0 +1,10 @@
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/CMakeFiles/rebuild_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/src/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/src/CMakeFiles/rebuild_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/src/my_lib/CMakeFiles/Library.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/src/my_lib/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/app/CMakeFiles/Executable.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/app/CMakeFiles/edit_cache.dir
+/home/selforder/Order/Projects/Udemy/C++ Tooling/CMakeTestToolingCpp/03_IntermidiateProjectStructure/build/app/CMakeFiles/rebuild_cache.dir
